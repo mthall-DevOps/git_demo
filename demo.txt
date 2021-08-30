@@ -1,6 +1,11 @@
 training on git
-<<<<<<< HEAD
+
 checking on merge
-=======
+
 jhsjhjjs
->>>>>>> develop
+
+jhsjhjjs
+
+nknfkkfkfkf
+ksnkdk
+
