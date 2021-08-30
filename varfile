@@ -1,14 +1,4 @@
 var a =10
 var b =1000
-<<<<<<< HEAD
-var c = 50
 
-var d -300
-=======
-var c = 500
-var d = 100
-<<<<<<< HEAD
->>>>>>> develop
-=======
-var 3 = 103
->>>>>>> develop
+
